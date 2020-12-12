@@ -30,7 +30,7 @@ Front-end engineers today almost always are designing **web front-ends**, which 
 
 Back-end engineers design systems that are primarily used by other software. This can be software that their company or team also makes, or it can be software made by their customers. The back-end will generally be where a lot of data is stored and where a lot of the more complex computing and logic is written. Usually, front-end systems use at least one back-end system, and sometimes other back-end systems will use other back-end systems.
 
-The interface for a back-end systems is called an **application programming interface**, or **API**.
+The interface for a back-end system is called an **application programming interface**, or **API**.
 
 Often, it is easier to make a ton of smaller applications, each with their own API, than it is to make one large and very complicated system with a single API. In the old days, they used to make everything one big program; now we tend to think of one application being made up of many **microservices**, with each **microservice** doing one specific thing very reliably. This makes the code easier to write and deploy, and debugging is a lot easier when only one small part of the app breaks because of a bug.
 
