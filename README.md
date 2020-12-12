@@ -12,7 +12,7 @@ A **software engineer** is the classic example of what someone probably thinks a
 
 The end goal of **software development** is ultimately to create an executable file that does something useful when you run it. Examples of the end products of software engineering are: video games, web sites, web browsers, databases, media players, photo editors, command-line consoles, messengers, and anti-virus.
 
-### UIs and APIs
+### All Software Provides an Interface
 
 The purpose of a piece of software is usually to make a task that is kind of complicated much simpler. Usually, the way this is done is by providing an **interface** to a more complex system underneath the software.
 
