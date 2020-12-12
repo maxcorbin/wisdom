@@ -4,7 +4,7 @@ Try to keep in mind that everyone is going learn their own way. The tech world i
 
 Also, we're different people! So some of the things that I'll talk about won't resonate with you and that's okay. Wherever possible, I'll try to include alternative sources for you to explore on your own. These can be supplemental to the stuff I'll cover, or they can send you off into a whole new direction that I don't know enough about.
 
-With that, let's start with the landscape. I'm going to try to use analogies to cars right now but just remember that the analogy isn't perfect.
+With that, let's start with the landscape.
 
 ## Software
 
